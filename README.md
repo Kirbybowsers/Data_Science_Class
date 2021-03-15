@@ -24,4 +24,5 @@ The notebook available here showcases work related to the above questions.
 The main findings of the code can be found in the code file.
 
 Licensing, Authors, Acknowledgements
-Must give credit to Stack Overflow for the data.Feel free to use the code here as you would like!
+Must give credit to Stack Overflow for the data. The data used is available https://www.kaggle.com/stackoverflow/so-survey-2017
+Feel free to use the code here as you would like!
